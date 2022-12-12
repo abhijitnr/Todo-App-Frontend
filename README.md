@@ -7,7 +7,7 @@
 
 ## Deployed link 👇👇👇
 
-[MY TODO APP]()
+[MY TODO APP](https://abhijit-fullstack-todo-app.netlify.app/)
 
 ## Features
 
