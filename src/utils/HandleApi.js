@@ -1,6 +1,7 @@
 import axios from "axios";
 
-const baseurl = "http://localhost:8000";
+// const baseurl = "http://localhost:8000";
+const baseurl = "https://super-jay-dirndl.cyclic.app";
 
 /* GET ALL TODOS */
 const getTodos = (setTodo) => {
